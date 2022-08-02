@@ -1,0 +1,13 @@
+*{
+    text-decoration: none;
+    list-style-type: none;
+}
+input{
+    width: 480px;
+}
+.sex{
+    width: 20px;
+}
+.formbackground{
+    background-color: lightgray;
+}
